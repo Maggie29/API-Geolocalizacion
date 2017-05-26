@@ -1,0 +1,14 @@
+#map{
+  width: 100%;
+  height: 90vh;
+}
+#encuentrame{
+  background-color: #F6A623;
+  width: 100%;
+  text-align: center;
+  height: 6vh;
+  color: white;
+  cursor: pointer;
+  font-size: 1.5em;
+  font-weight: bold;
+}
